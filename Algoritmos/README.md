@@ -1,0 +1,1 @@
+Implementei dois vetores dinâmicos usando array de tamanho dinâmico e lista duplamente encadeada em C++, com o fim de entender na prática como funciona cada operação dos vetores, e suas diferentes eficiências em cada caso distinto

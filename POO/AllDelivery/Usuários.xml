@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUsuario xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Usuario>
+    <ID>1</ID>
+    <Nome>Felipe</Nome>
+    <Contato>84 996825023</Contato>
+    <Cep>28394534-890</Cep>
+    <Numero>49</Numero>
+    <Complemento>445</Complemento>
+    <Email>favasconcelos09@gmail.com</Email>
+    <Senha>senhaficticia</Senha>
+  </Usuario>
+</ArrayOfUsuario>

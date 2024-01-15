@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAgencia xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Agencia>
+    <ID>1</ID>
+    <Nome>psajdvneaóg</Nome>
+    <Endereco>asjfvneóign</Endereco>
+    <Contato>pasfjnbeqíon</Contato>
+    <Email>eu@eu.eu</Email>
+    <Senha>123456789</Senha>
+  </Agencia>
+</ArrayOfAgencia>

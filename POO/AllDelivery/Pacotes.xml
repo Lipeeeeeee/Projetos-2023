@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPacote xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Pacote>
+    <ID>1</ID>
+    <IDUsuario>1</IDUsuario>
+    <IDAgencia>1</IDAgencia>
+    <Item>minha nota por favor</Item>
+    <Destinatario>Gilbas</Destinatario>
+    <CEPDestinatario>moralogoali</CEPDestinatario>
+    <Fragil>true</Fragil>
+    <Situacao>Entregue</Situacao>
+    <EtapaEntrega>Finalizado</EtapaEntrega>
+  </Pacote>
+</ArrayOfPacote>
